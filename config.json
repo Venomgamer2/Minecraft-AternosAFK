@@ -1,6 +1,6 @@
 {
 	"ip":"Venomgamer3.aternos.me",
 	"port": "64554",
-	"name": "im bot",
-	"auto-night-skip":"true"
+	"name": "im bot1",
+	"auto-night-skip":"false"
 }
